@@ -819,6 +819,13 @@ Trendly Support Agent uses a simple but robust architecture:
            │
            └── Escalate
 ```
+## Live Demo
+
+**Base URL:**  
+https://trendly-support-agent-nqtt.onrender.com
+
+**API Documentation:**  
+https://trendly-support-agent-nqtt.onrender.com/docs
 
 The key architectural separation is:
 
